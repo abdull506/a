@@ -1,0 +1,31 @@
+<!DOPCTYPE html>
+<html>
+ <head>
+      <title>register form</title>
+ </head>
+ <body>
+ <form>
+                                                                                                                                                
+    <table>
+         <tr>
+    
+           <td>
+               name:
+            </td>
+            <td>
+                <input type="text"name="">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                pasword:
+                </td>
+                <td>
+                <input type="pasword"name"">
+            </td>
+        </tr>
+
+      </table>
+</form>
+</body>
+</html>     
